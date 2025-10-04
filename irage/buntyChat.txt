@@ -1,0 +1,65 @@
+Here are direct links to tutorials and resources on the requested topics:
+
+Unix/Linux
+Linux Command Line Basics for Data Analysis: This tutorial provides an excellent overview of the most essential commands and concepts for anyone working with data.
+
+https://www.dataquest.io/blog/linux-command-line-for-data-science/
+
+Unix Getting Started: A beginner-friendly video course that covers the fundamentals of the Unix command line.
+
+https://www.udemy.com/course/unix-getting-started/
+
+Market Microstructure
+Market Microstructure Explained: A comprehensive blog post that breaks down key concepts like order types, order books, and how they affect trading.
+
+https://blog.quantinsti.com/market-microstructure/
+
+5 Top Pro Tips for Microstructure in Finance: This article offers practical insights and a high-level overview of how microstructure impacts trading strategies.
+
+https://www.numberanalytics.com/blog/5-top-pro-tips-microstructure-finance
+
+Python for Algorithmic Trading
+Algorithmic Trading in Python: A Complete Guide: A step-by-step guide to setting up your environment, understanding trading concepts, and coding your first strategy using Python.
+
+https://groww.in/blog/algorithmic-trading-with-python
+
+Implementing Algorithmic Trading Strategies with Python: This tutorial walks you through a practical example of building and backtesting a moving average crossover strategy.
+
+https://medium.com/@deepml1818/implementing-algorithmic-trading-strategies-with-python-a-step-by-step-guide-775ed86f9a41
+
+Trading Strategies
+Top 5 Algorithmic Trading Strategies: An introduction to common strategies like trend following, arbitrage, and mean reversion, with a focus on their underlying concepts.
+
+https://www.ig.com/en/trading-strategies/your-guide-to-the-top-5-algorithmic-trading-strategies--241108
+
+How to Start Algorithmic Trading: A broad guide that covers developing a strategy, backtesting, and the importance of risk management.
+
+https://www.utradealgos.com/blog/how-to-get-started-with-algo-trading-a-step-by-step-guide
+
+High-Frequency Trading (HFT)
+What is High-Frequency Trading? A Complete Beginner Guide: This article explains the fundamentals of HFT, its key features, and how it differs from traditional algorithmic trading.
+
+https://www.mastertrust.co.in/blog/what-is-high-frequency-trading-everything-you-need-to-knowwhat-is-high-frequency-trading
+
+The Ultimate Guide to High-Frequency Trading (HFT): A detailed guide that delves into HFT strategies such as latency arbitrage and market making.
+
+https://hackernoon.com/the-ultimate-guide-to-high-frequency-trading-hft-cm3931kz 
+
+
+
+https://quant.stackexchange.com/questions/70006/backtesting-using-microstructure-orderbook-data?newreg=18b1baedce144bf2a8dc71d48fc97863
+
+
+https://zerodha.com/varsity/modules/
+
+
+https://www.reddit.com/r/quant/comments/13qirbc/whats_is_the_catch_with_simple_statistical/
+
+
+https://web.stanford.edu/class/msande444/2009/2009Projects/2009-2/MSE444.pdf
+
+
+https://www.equiti.com/sc-en/education/market-analysis/order-flow-and-market-microstructure/
+
+
+https://www.researchgate.net/publication/240311531_Market_Microstructure_A_Practitioner's_Guide
