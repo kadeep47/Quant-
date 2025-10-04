@@ -53,6 +53,9 @@ https://quant.stackexchange.com/questions/70006/backtesting-using-microstructure
 https://zerodha.com/varsity/modules/
 
 
+https://www.youtube.com/playlist?list=PL3YfeZZ7Mdjmhucty7I55jX7RwS30pVAN
+
+
 https://www.reddit.com/r/quant/comments/13qirbc/whats_is_the_catch_with_simple_statistical/
 
 
